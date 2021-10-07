@@ -135,7 +135,7 @@
             <!-- Sidebar end=============================================== -->
             <div class="span9">
                 <div class="well well-small">
-                    <h4>Featured Products <small class="pull-right">200+ featured products</small></h4>
+                    <h4>All Product <small class="pull-right">Under Contruction</small></h4>
                     <div class="row-fluid">
                         <div id="featured" class="carousel slide">
                             <div class="carousel-inner">
@@ -146,8 +146,8 @@
                                                 <i class="tag"></i>
                                                 <a href="product_details.html"><img src="<?= base_url('assets/teamplate_landing/') ?>themes/images/products/b1.jpg" alt=""></a>
                                                 <div class="caption">
-                                                    <h5>Product name</h5>
-                                                    <h4><a class="btn" href="product_details.html">VIEW</a> <span class="pull-right">$222.00</span></h4>
+                                                    <h5>Sepatu Hils Maroon</h5>
+                                                    <h4><a class="btn" style="width: 30px;font-size:13px" href="product_details.html">VIEW</a> <span style="font-size: 13px;" class="pull-right">Rp.20.300.000,-</span></h4>
                                                 </div>
                                             </div>
                                         </li>
